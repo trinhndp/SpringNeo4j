@@ -11,11 +11,11 @@
 <head>
     <title>News Graph Tree</title>
     <link rel="stylesheet" href="/resources/css/style.css" />
+    <link rel="stylesheet" href="/resources/css/vis.min.css"/>
     <!-- Required scripts -->
-    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="//d3js.org/d3.v3.min.js"></script>
+    <script src="/resources/js/jquery-3.2.1.min.js"></script>
+    <script src="/resources/js/vis.min.js"></script>
     <script src="/resources/js/drawTree.js"></script>
-
 </head>
 <body>
 <div class="title" align="center">News Graph MTree</div>

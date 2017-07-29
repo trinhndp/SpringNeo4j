@@ -22,6 +22,6 @@ public class HomeController
     public String importData(){
         MTree mtree = new MTree("Topic Evolution");
         mtree.createTree(LocalDate.of(2017, 5, 30), 12);
-        return "home";
+        return "homePage";
     }
 }
