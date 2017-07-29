@@ -18,7 +18,7 @@
 
 </head>
 <body>
-<div class="header-panel" align="center">News Graph MTree</div>
+<div class="title" align="center">News Graph MTree</div>
 <div id="vis"></div>
 </body>
 </html>
